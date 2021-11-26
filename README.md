@@ -1,1 +1,1 @@
-# html-css-js-Dictionary
+This is a dictionary developed using HTML/CSS and JavaScript. Former two has been used to design the homepage of this website and latter has been use to retrieve information like meaning, pronunciation, synonyms, examples of word input by user using fetch() API method which sents request to an API (dictionaryapi.dev) on passing user input word.  
